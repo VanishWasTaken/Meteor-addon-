@@ -1,8 +1,7 @@
 # Meteor Addon Template
 
-A template to allow easy usage of the Meteor Addon API.
+This addon was based on Meteor Client addon teamplate
 
 ### How to use:  
-- Clone this project
-- Use this template to create new modules/commands
+- Go To release & download 
 - Run the mod with Meteor.
